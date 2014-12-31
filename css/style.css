@@ -224,7 +224,7 @@ h1, h2, h3
 	#topcontainer p
 	{
 		margin-bottom: 0;
-		color: #999;
+		color: #333; /*Was 999*/
 	}
 
 	#topcontainer p span
